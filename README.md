@@ -1,7 +1,5 @@
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/error4071/java-project-61/workflows/hexlet-check/badge.svg)](https://github.com/error4071/java-project-61/actions)
-
-<a href="https://codeclimate.com/github/error4071/java-project-61/maintainability"><img src="https://api.codeclimate.com/v1/badges/20302b324a1161512f16/maintainability" /></a>
+[![Actions Status](https://github.com/error4071/java-project-61/workflows/hexlet-check/badge.svg)](https://github.com/error4071/java-project-61/actions) <a href="https://codeclimate.com/github/error4071/java-project-61/maintainability"><img src="https://api.codeclimate.com/v1/badges/20302b324a1161512f16/maintainability" /></a>
 
 My first project in Java. Project calls "Brain Games" and it contains 5 different logic games. Test your mind in such games as:
 
