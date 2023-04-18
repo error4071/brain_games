@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-
-@error4071
-error4071
-/
-java-project-61
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-java-project-61/app/gradlew
-@error4071
-error4071 add app
-Latest commit a4da0d8 22 minutes ago
- History
- 1 contributor
-234 lines (207 sloc)  7.88 KB
-
-
 #!/bin/sh
 
 #
