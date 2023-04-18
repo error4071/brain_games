@@ -10,11 +10,7 @@ My first project in Java. Project calls "Brain Games" and it contains 5 differen
 5. Prime.
 
 https://asciinema.org/a/w9AlWvpcolsbkWMyBQjHpVFsR
-
 https://asciinema.org/a/bHmPgaHYiDLqW2ADE3rAQhFf6
-
 https://asciinema.org/a/PrXG0NyIT2CrRioqdSSjF2alD
-
 https://asciinema.org/a/GqEXQcUY7pODCn8a4cZHCiGAg
-
- https://asciinema.org/a/GwomRWP9KtXtZ9iWXRjMqPKlP
+https://asciinema.org/a/GwomRWP9KtXtZ9iWXRjMqPKlP
