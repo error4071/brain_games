@@ -9,7 +9,6 @@ My first project in Java. Project calls "Brain Games" and it contains 5 differen
 4. Progression.
 5. Prime. 
 
-https://asciinema.org/a/w9AlWvpcolsbkWMyBQjHpVFsR
 
 2. Even game.
 [![asciicast](https://asciinema.org/a/w9AlWvpcolsbkWMyBQjHpVFsR.svg)](https://asciinema.org/a/w9AlWvpcolsbkWMyBQjHpVFsR)
