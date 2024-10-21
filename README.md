@@ -24,18 +24,19 @@ https://asciinema.org/a/w9AlWvpcolsbkWMyBQjHpVFsR
 [![asciicast](https://asciinema.org/a/GqEXQcUY7pODCn8a4cZHCiGAg.svg)](https://asciinema.org/a/GqEXQcUY7pODCn8a4cZHCiGAg)
 
 
-How to launch it on  UNIX
-First of all clone the repo to the specified folder
-git clone https://github.com/error4071/java-project-61
+#### How to launch it on  UNIX
 
-Go to the folder with executable file
-cd java-project-61/app
+1. First of all clone the repo to the specified folder
+>> git clone https://github.com/error4071/java-project-61
 
-Make a build
-make install
+2. Go to the folder with executable file
+> cd java-project-61/app
 
-Launch the game
-make run-dist
+3. Make a build
+> make install
+
+4. Launch the game
+> make run-dist
 
 Author
 Sergey Tsoy \ error4071
