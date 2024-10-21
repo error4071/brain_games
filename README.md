@@ -7,19 +7,20 @@ My first project in Java. Project calls "Brain Games" and it contains 5 differen
 2. Calculator.
 3. GCD.
 4. Progression.
-5. Prime. 
+5. Prime.
+   
 
 
-2. Even game.
+   Even game.
 [![asciicast](https://asciinema.org/a/w9AlWvpcolsbkWMyBQjHpVFsR.svg)](https://asciinema.org/a/w9AlWvpcolsbkWMyBQjHpVFsR)
 
-3. GCD game.
+   GCD game.
 [![asciicast](https://asciinema.org/a/PrXG0NyIT2CrRioqdSSjF2alD.svg)](https://asciinema.org/a/PrXG0NyIT2CrRioqdSSjF2alD)
 
-4. Progressiom game.
+   Progressiom game.
 [![asciicast](https://asciinema.org/a/GwomRWP9KtXtZ9iWXRjMqPKlP.svg)](https://asciinema.org/a/GwomRWP9KtXtZ9iWXRjMqPKlP)
 
-6. Prime game.
+   Prime game.
 [![asciicast](https://asciinema.org/a/GqEXQcUY7pODCn8a4cZHCiGAg.svg)](https://asciinema.org/a/GqEXQcUY7pODCn8a4cZHCiGAg)
 
 
