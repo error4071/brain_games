@@ -7,7 +7,7 @@ My first project in Java. Project calls "Brain Games" and it contains 5 differen
 2. Calculator.
 3. GCD.
 4. Progression.
-5. Prime.
+5. Prime. 
 
 https://asciinema.org/a/w9AlWvpcolsbkWMyBQjHpVFsR
 
@@ -17,6 +17,6 @@ https://asciinema.org/a/w9AlWvpcolsbkWMyBQjHpVFsR
 3. GCD game.
 [![asciicast](https://asciinema.org/a/PrXG0NyIT2CrRioqdSSjF2alD.svg)](https://asciinema.org/a/PrXG0NyIT2CrRioqdSSjF2alD)
 
-https://asciinema.org/a/GqEXQcUY7pODCn8a4cZHCiGAg
+5. Prime game.
 
 https://asciinema.org/a/GwomRWP9KtXtZ9iWXRjMqPKlP
