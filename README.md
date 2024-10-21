@@ -11,9 +11,11 @@ My first project in Java. Project calls "Brain Games" and it contains 5 differen
 
 https://asciinema.org/a/w9AlWvpcolsbkWMyBQjHpVFsR
 
+2. Even game.
 [![asciicast](https://asciinema.org/a/w9AlWvpcolsbkWMyBQjHpVFsR.svg)](https://asciinema.org/a/w9AlWvpcolsbkWMyBQjHpVFsR)
 
-https://asciinema.org/a/PrXG0NyIT2CrRioqdSSjF2alD
+3. GCD game.
+[![asciicast](https://asciinema.org/a/PrXG0NyIT2CrRioqdSSjF2alD.svg)](https://asciinema.org/a/PrXG0NyIT2CrRioqdSSjF2alD)
 
 https://asciinema.org/a/GqEXQcUY7pODCn8a4cZHCiGAg
 
