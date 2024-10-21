@@ -11,7 +11,7 @@ My first project in Java. Project calls "Brain Games" and it contains 5 differen
 
 https://asciinema.org/a/w9AlWvpcolsbkWMyBQjHpVFsR
 
-<script src="https://asciinema.org/a/w9AlWvpcolsbkWMyBQjHpVFsR.js" id="asciicast-w9AlWvpcolsbkWMyBQjHpVFsR" async="true"></script>
+[![asciicast](https://asciinema.org/a/w9AlWvpcolsbkWMyBQjHpVFsR.svg)](https://asciinema.org/a/w9AlWvpcolsbkWMyBQjHpVFsR)
 
 https://asciinema.org/a/PrXG0NyIT2CrRioqdSSjF2alD
 
