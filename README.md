@@ -18,5 +18,6 @@ https://asciinema.org/a/w9AlWvpcolsbkWMyBQjHpVFsR
 [![asciicast](https://asciinema.org/a/PrXG0NyIT2CrRioqdSSjF2alD.svg)](https://asciinema.org/a/PrXG0NyIT2CrRioqdSSjF2alD)
 
 5. Prime game.
+[![asciicast](https://asciinema.org/a/GqEXQcUY7pODCn8a4cZHCiGAg.svg)](https://asciinema.org/a/GqEXQcUY7pODCn8a4cZHCiGAg)
 
 https://asciinema.org/a/GwomRWP9KtXtZ9iWXRjMqPKlP
