@@ -23,3 +23,19 @@ https://asciinema.org/a/w9AlWvpcolsbkWMyBQjHpVFsR
 6. Prime game.
 [![asciicast](https://asciinema.org/a/GqEXQcUY7pODCn8a4cZHCiGAg.svg)](https://asciinema.org/a/GqEXQcUY7pODCn8a4cZHCiGAg)
 
+
+How to launch it on  UNIX
+First of all clone the repo to the specified folder
+git clone https://github.com/error4071/java-project-61
+
+Go to the folder with executable file
+cd java-project-61/app
+
+Make a build
+make install
+
+Launch the game
+make run-dist
+
+Author
+Sergey Tsoy \ error4071
