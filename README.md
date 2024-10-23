@@ -39,5 +39,5 @@ My first project in Java. Project calls "Brain Games" and it contains 5 differen
 > make run-dist
 
 
-Author
+#### Author
 Sergey Tsoy \ error4071
